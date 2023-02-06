@@ -1,0 +1,13 @@
+{
+    "endpoint": {
+        "client_id": "50450851271-hdn53k82qll4sua0eussfrrfrirmd5f8.apps.googleusercontent.com",
+        "clinet_secret": "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"
+    },
+
+    "refresh_token": "1//04vTxuahNyoUlCgYIARAAGAQSNwF-L9Ir5IYDBeeBHlqwl7jz3Gk2VoPtU6uOSHeGpzFn77gJpHMg-WAbm3gwPYrr6W-mGmFDvLQ",
+    "callback": "http://api.yukinoshita.my.id/callback",
+
+    "gdrive_options": {
+        "docroot": "1jZl3SStOVNzDvWhRQV3zOnhx059Xq-cU"
+    }
+}
